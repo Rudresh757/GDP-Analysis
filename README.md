@@ -47,12 +47,7 @@ Growth percentage comparisons across countries
 📌 How to Run
 Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/gdp-growth-analysis.git
-cd gdp-growth-analysis
-Install required libraries:
+
 
 bash
 Copy
